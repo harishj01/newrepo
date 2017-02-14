@@ -22,5 +22,6 @@ public class NewTest1 {
 	  System.out.println("welcome to Jenkins");
 	  
 	  System.out.println("test");
+	  System.out.println("initial commit");
   }
 }
