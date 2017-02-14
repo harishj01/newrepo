@@ -23,5 +23,6 @@ public class NewTest1 {
 	  
 	  System.out.println("test");
 	  System.out.println("initial commit");
+	  System.out.println("initial commit 2");
   }
 }
